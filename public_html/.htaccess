@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Projekt Bazy Danych"
+AuthUserFile /home/symfony/public_html/.htpasswd
+Require valid-user
